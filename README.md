@@ -19,12 +19,12 @@ description: >-
 
 ![](.gitbook/assets/image%20%282%29.png)
 
-1. Select Connect, and you will be prompted for a username, password, and domain. The domain will be siriuscloudservices.com, and the username and password for the domain will be your username and password.
-2.  Mutliple certificate is invalid messages will appear, accept each one by selecting "Continue and connect to the server.
+2. Select Connect, and you will be prompted for a username, password, and domain. The domain will be siriuscloudservices.com, and the username and password for the domain will be your username and password.
+3.  Mutliple certificate is invalid messages will appear, accept each one by selecting "Continue and connect to the server.
 
 ![](.gitbook/assets/image%20%284%29.png)
 
-1. Once Accessed, you will be logged into the server
+4. Once This is complete you will be logged into the server
 
 
 
