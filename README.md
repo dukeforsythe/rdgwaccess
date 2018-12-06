@@ -22,6 +22,10 @@ description: >-
 * Select Connect, and you will be prompted for a username, password, and domain. The domain will be siriuscloudservices.com, and the username and password for the domain will be your username and password.
 * Multiple certificate is invalid messages will appear, accept each one by selecting "Continue and connect to the server.
 
+  * Should you get the error: "The connection has been terminated because an unexpected server authentication certificate was received from the remote computer" use the following guide for the workaround
+
+  [https://support.citrix.com/article/CTX138904](https://support.citrix.com/article/CTX138904)
+
 ![](.gitbook/assets/image%20%284%29.png)
 
 * Once This is complete you will be logged into the server
